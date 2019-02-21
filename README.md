@@ -2,6 +2,10 @@
 
 allumer et éteindre une led par google assistance .
 
+# VIDEO
+
+[![video](https://img.youtube.com/vi/dqwh1evVvIM/0.jpg)](https://www.youtube.com/watch?v=dqwh1evVvIM)
+
 # BIBLIOTHEQUES
 
 #include <WiFi.h>
